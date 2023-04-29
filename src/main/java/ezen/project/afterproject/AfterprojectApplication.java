@@ -13,6 +13,9 @@ public class AfterprojectApplication {
 		SpringApplication.run(AfterprojectApplication.class, args);
 		
 		log.info("실행성공");
+
+		System.out.println("123");
+
 	}
 
 }
